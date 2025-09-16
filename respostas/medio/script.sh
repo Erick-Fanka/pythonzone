@@ -1,0 +1,9 @@
+touch atividade1.py
+touch atividade2.py 
+touch atividade3.py
+touch atividade4.py
+touch atividade5.py
+touch atividade6.py 
+touch atividade7.py
+touch atividade8.py
+touch atividade9.py
