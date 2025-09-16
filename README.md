@@ -15,7 +15,8 @@ Para manter tudo organizado, o repositório está dividido em pastas:
 - **`facil/`** → Contém os exercícios de nível **fácil** (`atividade1.py`, `atividade2.py`, …).  
 - **`medio/`** → Contém os exercícios de nível **médio** (`atividade6.py`, `atividade7.py`, …).  
 - **`dificil/`** → Contém os exercícios de nível **difícil** (`atividade10.py`, `atividade11.py`, …).  
-
+- **`respostas/`** → Contém as soluções de todos os exercícios, separadas por nível de dificuldade (`facil/`, `medio/`, `dificil/`).
+  
 ---
 
 # 📘 Lista de Atividades – PythonZone
@@ -26,19 +27,22 @@ Você pode responder diretamente abaixo de cada enunciado ou criar arquivos `.py
 ---
 
 ## 🟢 Atividades Fáceis
-*(… atividades aqui …)* (./facil/)
+*[… atividades aqui …](./facil)*
 
 ---
 
 ## 🟡 Atividades Médias
-*(… atividades aqui …)*
+*[… atividades aqui …](./medio)*
 
 ---
 
 ## 🔴 Atividades Difíceis
-*(… atividades aqui …)*
+*[… atividades aqui …](./dificil)*
 
 ---
+
+## ✅ Repostas
+*[… respostas aqui …](./respostas)*
 
 🎯 **Objetivo:**  
 Este repositório não é apenas um material de leitura: é um **laboratório de prática**.  
