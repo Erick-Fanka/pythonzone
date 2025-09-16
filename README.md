@@ -26,7 +26,7 @@ Você pode responder diretamente abaixo de cada enunciado ou criar arquivos `.py
 ---
 
 ## 🟢 Atividades Fáceis
-*(… atividades aqui …)*
+*(… atividades aqui …)* (./facil/)
 
 ---
 
