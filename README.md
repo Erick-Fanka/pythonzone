@@ -1,7 +1,11 @@
 # 🐍 PythonZone
 
 Bem-vindo ao **PythonZone**, um repositório com atividades práticas de **Python Básico** organizadas por nível de dificuldade.  
-Este material serve para estudos, prática e revisão de conceitos fundamentais da linguagem.  
+Este material foi criado inicialmente **para meu próprio aprendizado**, mas está disponível para quem está começando na programação, servindo como referência e prática.  
+
+💡 As atividades foram elaboradas com o auxílio de **Inteligência Artificial**, mas o objetivo principal é que você **coloque a mão na massa**, escrevendo e executando os códigos, testando diferentes cenários e realmente praticando, e não apenas lendo.
+
+📌 Além disso, este repositório também funciona como **um marco na minha carreira**, permitindo que eu acompanhe e analise minha evolução ao longo do tempo.
 
 ---
 
@@ -19,7 +23,7 @@ Para manter tudo organizado, o repositório está dividido em pastas:
 # 📘 Lista de Atividades – PythonZone
 
 As atividades estão organizadas em **Fácil**, **Médio** e **Difícil**.  
-Responda diretamente abaixo de cada enunciado ou crie arquivos `.py` separados no repositório.  
+Você pode responder diretamente abaixo de cada enunciado ou criar arquivos `.py` separados no repositório para praticar de forma prática.
 
 ---
 
@@ -40,8 +44,24 @@ Responda diretamente abaixo de cada enunciado ou crie arquivos `.py` separados n
 
 ✍️ **Sugestão de Organização no Repositório:**  
 - `anotacoes/` → Resumos e dicas  
-- `facil/atividade1.py`  
-- `medio/atividade6.py`  
-- `dificil/atividade10.py`  
+- `facil/atividade1.py` → Exercícios fáceis  
+- `medio/atividade6.py` → Exercícios médios  
+- `dificil/atividade10.py` → Exercícios difíceis  
+
+---
+
+🎯 **Objetivo:**  
+Este repositório não é apenas um material de leitura: é um **laboratório de prática**.  
+A IA auxiliou na criação das atividades, mas **o aprendizado real acontece quando você executa os códigos, testa variações e resolve os problemas por conta própria**.  
+Além disso, ele funciona como um **registro da minha evolução**, permitindo analisar o progresso e consolidar conhecimentos ao longo do tempo.
+
+---
+
+## 👨‍💻 Autor
+
+**Erick Fanka**  
+Ex-Competidor WorldSkills | Cloud Computing | Redes | Python | AWS 
+
+🔗 [LinkedIn](https://www.linkedin.com/in/erick-fanka)
 
 ---
