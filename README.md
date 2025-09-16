@@ -3,8 +3,6 @@
 Bem-vindo ao **PythonZone**, um repositório com atividades práticas de **Python Básico** organizadas por nível de dificuldade.  
 Este material foi criado inicialmente **para meu próprio aprendizado**, mas está disponível para quem está começando na programação, servindo como referência e prática.  
 
-💡 As atividades foram elaboradas com o auxílio de **Inteligência Artificial**, mas o objetivo principal é que você **coloque a mão na massa**, escrevendo e executando os códigos, testando diferentes cenários e realmente praticando, e não apenas lendo.
-
 📌 Além disso, este repositório também funciona como **um marco na minha carreira**, permitindo que eu acompanhe e analise minha evolução ao longo do tempo.
 
 ---
@@ -39,14 +37,6 @@ Você pode responder diretamente abaixo de cada enunciado ou criar arquivos `.py
 
 ## 🔴 Atividades Difíceis
 *(… atividades aqui …)*
-
----
-
-✍️ **Sugestão de Organização no Repositório:**  
-- `anotacoes/` → Resumos e dicas  
-- `facil/atividade1.py` → Exercícios fáceis  
-- `medio/atividade6.py` → Exercícios médios  
-- `dificil/atividade10.py` → Exercícios difíceis  
 
 ---
 
