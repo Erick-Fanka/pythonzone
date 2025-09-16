@@ -155,17 +155,6 @@ def saudacao(nome):
     return f"Olá, {nome}!"
 
 print(saudacao("Maria"))
-```
-
-* Argumentos podem ter valores padrão:
-
-  ```python
-  ```
-
-def somar(a, b=10):
-return a + b
-
-````
 
 ---
 
