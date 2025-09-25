@@ -12,7 +12,7 @@ No entanto, se você encontrar algum problema de segurança ou vulnerabilidade e
    - Descrição detalhada do problema
    - Passos para reproduzir o problema
    - Sugestão de correção (se possível)
-3. Se o problema for crítico e você não quiser deixar público, entre em contato diretamente comigo através do meu e-mail: **[seu-email@exemplo.com]**.
+3. Se o problema for crítico e você não quiser deixar público, entre em contato diretamente comigo através do meu e-mail: **erickfanka@gmail.com**.
 
 ### Resposta
 
